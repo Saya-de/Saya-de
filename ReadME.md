@@ -13,9 +13,9 @@
 </p>
 <p align="center">
   <a href="#" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-4/383667383547723777.png" alt="discordembed">
-    YES, i know you cant click this, because i dont want to be your personal discord support
+    <img src="https://discord.c99.nl/widget/theme-4/383667383547723777.png" alt="discordembed">  
   </a>
+   YES, i know you cant click this, because i dont want to be your personal discord support
 </p>
 <br>
 <br>
