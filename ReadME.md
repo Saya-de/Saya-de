@@ -32,7 +32,7 @@
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40">
   </a>
@@ -64,7 +64,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40">
   </a>
 </p>
-<h3 align="center">Useful links:</h3>
+<h3 align="left">Useful links:</h3>
   <p>
       Test
   </p>
