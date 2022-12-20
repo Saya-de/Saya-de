@@ -17,7 +17,7 @@
   </a>
 </p>
 <a href="test" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saya-de&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saya-de&layout=compact&bg_color=00000000">
 <br>
 <br>
 <br>
