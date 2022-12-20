@@ -21,7 +21,7 @@
 <h4 align="center"> Top Languages (Public repos)</h4>
 <p align="center">
   <a href="#" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saya-de&layout=compact&bg_color=C5C5C5" alt="top langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saya-de&layout=compact&bg_color=3D3D3D" alt="top langs">
   </a>
 </p>
 <br>
