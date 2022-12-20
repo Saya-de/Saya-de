@@ -1,5 +1,5 @@
 <h1 align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=Concert+One&size=30&pause=1000&color=7D0CD2&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Saya" alt="Typing SVG" /></a></h1>
-<h3 align="left">I like to code private trash and publish it when i feel like i dont need it anymore or other people could need it</h3>
+<h3 align="center">I like to code private trash and publish it when i feel like i dont need it anymore or other people could need it</h3>
 <p align="left">
 </p>
 <p align="center"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saya-de?color=purple&label=Overall-Stars&style=for-the-badge"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/saya-de?color=purple&style=for-the-badge">
