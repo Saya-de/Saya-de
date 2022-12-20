@@ -40,13 +40,7 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40">
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://silk.us/wp-content/uploads/2021/03/sql-server-logo-white.png" alt="mssql" width="45" height="40">
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40">
-  </a>
-  <a href="https://hex-rays.com/ida-pro/" target="_blank" rel="noreferrer">
+   <a href="https://hex-rays.com/ida-pro/" target="_blank" rel="noreferrer">
     <img src="https://i.imgur.com/A9f0NCz.png" alt="ida pro" width="35" height="40">
   </a>
   <a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer">
@@ -57,6 +51,12 @@
   </a>
   <a href="https://github.com/ReClassNET/ReClass.NET" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/36203059?s=280&amp;v=4" alt="reclassNET" width="40" height="40">
+  </a>
+   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://silk.us/wp-content/uploads/2021/03/sql-server-logo-white.png" alt="mssql" width="45" height="40">
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40">
   </a>
 </p>
 <br>
