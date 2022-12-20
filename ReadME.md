@@ -17,8 +17,10 @@
   </a>
 </p>
 <p align="center">
- YES, i know you cant click this, because i dont want to be your personal discord support
-  </p>
+  <a style="font-size: 2;">
+    YES, i know you cant click this, because i dont want to be your personal discord support
+   </a>
+ </p>
 <br>
 <br>
 <h4 align="center"> Top Languages (Public repos)</h4>
