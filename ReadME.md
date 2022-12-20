@@ -67,7 +67,7 @@
 <h3 align="left">Useful links:</h3>
   <p>
     <a href="https://dumps.host" target="_blank" rel="noreferrer">
-      <img src="https://dumps.host/images/logo.png" alt="https://dumps.host" width="40" height="40">
+      <img src="https://dumps.host/images/logo.png" alt="https://dumps.host" width="80" height="40">
     </a>
   </p>
 <br>
