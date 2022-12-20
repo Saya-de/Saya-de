@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#" target="_blank">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saya-de?color=purple&label=total%20stars&logo=github&style=for-the-badge">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/saya-de?color=purple&amp;style=flat">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/saya-de?color=purple&logo=github&style=for-the-badge">
   </a>
 </p>
 <p align="center">
