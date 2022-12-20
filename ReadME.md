@@ -7,7 +7,7 @@
 <h3 align="center">I like to code private trash and publish it when i feel like i dont need it anymore or other people could need it</h3>
 <p align="center">
   <a href="#" target="_blank">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saya-de?color=purple&amp;label=overall-stars&amp;style=flat">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saya-de?color=purple&amp;label=total-stars&amp;style=flat">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/saya-de?color=purple&amp;style=flat">
   </a>
 </p>
