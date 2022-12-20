@@ -20,7 +20,7 @@
   <a>
     YES, i know you cant click this, because i dont want to be your personal discord support
    </a>
- </h6>
+ </h8>
 <br>
 <br>
 <h4 align="center"> Top Languages (Public repos)</h4>
