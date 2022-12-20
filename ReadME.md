@@ -57,6 +57,6 @@
 <br>
 <p align="center">
   <a>
-    <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-3.8cbd2dc.f1c3420f14dc66bdae78de1fecb4c85f.gif" alt="20210303-dino-game-3">
+    <img src="https://i.imgur.com/HyJbPgj.gif" alt="dinogame">
   </a>
 </p>
