@@ -83,4 +83,5 @@
     <img src="https://i.imgur.com/HyJbPgj.gif" alt="dinogame">
   </a>
 </p>
+PS: If you find trash in my old repos, idc, theyre OLD!
 
