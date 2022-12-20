@@ -17,7 +17,7 @@
   </a>
 </p>
 <p align="center">
-  <a style="font-size: 2;">
+  <a style="font-size: -2;">
     YES, i know you cant click this, because i dont want to be your personal discord support
    </a>
  </p>
