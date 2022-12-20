@@ -56,7 +56,7 @@
 <br>
 <br>
 <p align="center">
-  <a>
+  <a href="" target="_blank">
     <img src="https://i.imgur.com/HyJbPgj.gif" alt="dinogame">
   </a>
 </p>
