@@ -18,7 +18,7 @@
 </p>
 <p align="center">
   <a href="#" target="_blank">
-    <h4> Top Lanuages (Public repos)</h4>
+    Top Lanuages (Public repos)
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saya-de&layout=compact&bg_color=00000000" alt="top langs">
   </a>
 </p>
