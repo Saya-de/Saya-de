@@ -16,7 +16,8 @@
     <img src="https://discord.c99.nl/widget/theme-4/383667383547723777.png" alt="discordembed">
   </a>
 </p>
-
+<a href="test" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
 <br>
 <br>
 <br>
