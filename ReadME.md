@@ -50,9 +50,7 @@
   <a href="https://github.com/ReClassNET/ReClass.NET" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/36203059?s=280&amp;v=4" alt="reclassNET" width="40" height="40">
   </a>
-
 </p>
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 <br>
 <br>
 <br>
