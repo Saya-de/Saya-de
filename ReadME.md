@@ -1,6 +1,6 @@
 <h1> </h1>
 <h1 align="center">
-  <a href="https://github.com/Saya-de" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&amp;size=30&amp;color=B3B3B3&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=%E3%80%A9+Hi%2C+im+Saya+%E3%80%A9;%E3%80%A9+Your+Opinion%3F+%E3%80%A9;%E3%80%A9+I+dont+care.+%E3%80%A9" alt="Typing SVG">
   </a>
 </h1>
@@ -56,7 +56,7 @@
 <br>
 <br>
 <p align="center">
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://i.imgur.com/HyJbPgj.gif" alt="dinogame">
   </a>
 </p>
