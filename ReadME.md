@@ -17,7 +17,7 @@
   </a>
 </p>
 <a href="test" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saya-de&layout=compact">
 <br>
 <br>
 <br>
