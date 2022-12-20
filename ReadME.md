@@ -1,4 +1,4 @@
-<h1 align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=Concert+One&size=30&pause=1000&color=7D0CD2&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Saya" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=30&color=B3B3B3&center=true&vCenter=true&width=435&lines=%E3%80%A9+Hi%2C+im+Saya+%E3%80%A9;%E3%80%A9+Your+Opinion%3F+%E3%80%A9;%E3%80%A9+I+dont+care.+%E3%80%A9" alt="Typing SVG" /></a></h1>
 <h3 align="center">I like to code private trash and publish it when i feel like i dont need it anymore or other people could need it</h3>
 <p align="left">
 </p>
