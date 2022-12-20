@@ -4,9 +4,6 @@
   
 <p align="center">
  <a href="https://discord.com/users/383667383547723777" target="_blank"><img src="https://discord.c99.nl/widget/theme-4/383667383547723777.png"> </a> </p>
- 
-<p align="center">
- <a href="https://chromedino.com" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/i/9mtznxfpdeuq48ed1el8.gif"> </a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
