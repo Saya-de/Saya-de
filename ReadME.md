@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://discord.com/users/383667383547723777" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://discord.c99.nl/widget/theme-4/383667383547723777.png" alt="discordembed">
   </a>
 </p>
