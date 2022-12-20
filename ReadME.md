@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/92759471?v=4" width="100"/>
+  <img src="https://i.pinimg.com/originals/bf/00/b0/bf00b0d54d1ebe48733566c1539fcbb7.gif" width="100"/>
 </div>
 
 <h1 align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=30&color=B3B3B3&center=true&vCenter=true&width=435&lines=%E3%80%A9+Hi%2C+im+Saya+%E3%80%A9;%E3%80%A9+Your+Opinion%3F+%E3%80%A9;%E3%80%A9+I+dont+care.+%E3%80%A9" alt="Typing SVG" /></a></h1>
