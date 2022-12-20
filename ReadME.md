@@ -9,8 +9,7 @@
   <a href="#" target="_blank">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saya-de?color=purple&label=total%20stars&logo=github&style=for-the-badge">
     <img alt="Github followers" src="https://komarev.com/ghpvc/?username=saya-de&style=for-the-badge&color=800080">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/saya-de?color=purple&logo=github&style=for-the-badge">
-    
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/saya-de?color=purple&logo=github&style=for-the-badge">   
   </a>
 </p>
 <p align="center">
@@ -23,7 +22,8 @@
     YES, i know you cant click this, because i dont want to be your personal discord support
    </a>
  </h6>
-
+<br>
+<br>
 <h4 align="center"> Top Languages (Public repos)</h4>
 <p align="center">
   <a href="#" target="_blank">
