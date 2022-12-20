@@ -16,11 +16,11 @@
     <img src="https://discord.c99.nl/widget/theme-4/383667383547723777.png" alt="discordembed">  
   </a>
 </p>
-<h8 align="center">
+<h6 align="center">
   <a>
     YES, i know you cant click this, because i dont want to be your personal discord support
    </a>
- </h8>
+ </h6>
 <br>
 <br>
 <h4 align="center"> Top Languages (Public repos)</h4>
