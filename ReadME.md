@@ -3,8 +3,8 @@
 </div>
 
 <h1 align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=30&color=B3B3B3&center=true&vCenter=true&width=435&lines=%E3%80%A9+Hi%2C+im+Saya+%E3%80%A9;%E3%80%A9+Your+Opinion%3F+%E3%80%A9;%E3%80%A9+I+dont+care.+%E3%80%A9" alt="Typing SVG" /></a></h1>
-<h3 align="center">I like to code private trash and publish it when i feel like i dont need it anymore or other people could need it</h3>
-<p align="center"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saya-de?color=purple&label=Overall-Stars&style=flat"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/saya-de?color=purple&style=flat">
+<h2 align="center">I like to code private trash and publish it when i feel like i dont need it anymore or other people could need it</h3>
+<p align="center"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saya-de?color=purple&label=Overall-Stars&style=flat"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/saya-de?color=purple&style=flat"> </h2>
   
 <p align="center">
  <a href="https://discord.com/users/383667383547723777" target="_blank"><img src="https://discord.c99.nl/widget/theme-4/383667383547723777.png"> </a> </p>
