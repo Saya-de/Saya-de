@@ -1,6 +1,6 @@
 # no
 <h1 align="center">Hi 👋, I'm Saya</h1>
-<h3 align="left">I like to code trash and to annoy random monkeys  :</h3>
+<h3 align="left">I like to code trash and to annoy random monkeys :) </h3>
 <p align="left">
 </p>
 
