@@ -1,7 +1,7 @@
 <h1> </h1>
 <h1 align="center">
   <a href="#" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&amp;size=30&amp;color=B3B3B3&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=%E3%80%A9+Hi%2C+im+Saya+%E3%80%A9;%E3%80%A9+Your+Opinion%3F+%E3%80%A9;%E3%80%A9+I+dont+care.+%E3%80%A9" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&amp;size=30&amp;color=B3B3B3&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=%E3%80%A9+Hi%2C+im+Saya+%E3%80%A9;%E3%80%A9+Your+Opinion%3F+%E3%80%A9;%E3%80%A9+I+dont+care.+%E3%80%A9" alt="Typing SVG">
   </a>
 </h1>
 <h3 align="center">I like to code private trash and publish it when i feel like i dont need it anymore or other people could need it</h3>
