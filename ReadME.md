@@ -16,9 +16,9 @@
     <img src="https://discord.c99.nl/widget/theme-4/383667383547723777.png" alt="discordembed">
   </a>
 </p>
+<h4> Top Languages (Public repos)</h4>
 <p align="center">
   <a href="#" target="_blank">
-    Top Lanuages (Public repos)
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saya-de&layout=compact&bg_color=00000000" alt="top langs">
   </a>
 </p>
