@@ -6,8 +6,10 @@
 </h1>
 <h3 align="center">I like to code private trash and publish it when i feel like i dont need it anymore or other people could need it</h3>
 <p align="center">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saya-de?color=purple&amp;label=Overall-Stars&amp;style=flat">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/saya-de?color=purple&amp;style=flat">
+  <a href="#" target="_blank">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saya-de?color=purple&amp;label=Overall-Stars&amp;style=flat">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/saya-de?color=purple&amp;style=flat">
+  </a>
 </p>
 <p align="center">
   <a href="https://discord.com/users/383667383547723777" target="_blank">
