@@ -77,6 +77,7 @@
 <br>
 <br>
 <br>
+<h3 align="center">I like to code private trash and publish it when i feel like i dont need it anymore or other people could need it (If you find trash code in my old repos, idfc, theyre OLD!)</h3>
 <p align="center">
   <a href="https://chromedino.com" target="_blank">
     <img src="https://i.imgur.com/HyJbPgj.gif" alt="dinogame">
