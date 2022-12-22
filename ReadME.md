@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <a  target="_blank">
+  <a href="#" target="_blank">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saya-de?color=purple&label=total%20stars&logo=github&style=for-the-badge">
     <img alt="Github followers" src="https://komarev.com/ghpvc/?username=saya-de&style=for-the-badge&color=800080">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/saya-de?color=purple&logo=github&style=for-the-badge">   
