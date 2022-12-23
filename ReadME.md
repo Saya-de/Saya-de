@@ -14,10 +14,10 @@
 <p align="center">
   <a href="#" target="_blank">
     <img src="https://discord.c99.nl/widget/theme-4/383667383547723777.png" alt="discordembed">  
-    
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gug5buyysj0ygjfjr1crpzhd2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&bar_color=9900ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-    
   </a>
+  
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gug5buyysj0ygjfjr1crpzhd2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&bar_color=9900ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  
 </p>
 <h6 align="center">
   <a>
