@@ -11,7 +11,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/saya-de?color=purple&logo=github&style=for-the-badge">   
   </a>
 </p>
-<div align="center">
+<div>
 <p>
   <a href="#" target="_blank">
     <img src="https://discord.c99.nl/widget/theme-4/383667383547723777.png" alt="discordembed">  
