@@ -58,7 +58,7 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40">
   </a>
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saya-de&layout=compact&bg_color=00000000&text_color=E5E5E5&title_color=A848A6&hide_border=true" alt="top langs">
   </a>
 </p>
