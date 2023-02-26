@@ -80,6 +80,3 @@
     <img src="https://i.imgur.com/HyJbPgj.gif" alt="dinogame">
   </a>
 </p>
-
-
-[![](https://data.jsdelivr.com/v1/package/gh/JhonLikesFloppa/Plurpel/badge?style=rounded)](https://www.jsdelivr.com/package/gh/JhonLikesFloppa/Plurpel)
