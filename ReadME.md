@@ -79,4 +79,5 @@
   <a href="https://chromedino.com" target="_blank">
     <img src="https://i.imgur.com/HyJbPgj.gif" alt="dinogame">
   </a>
-</p>
+  <a img src="https://i.imgur.com/WFRq1PT.png"> </a>
+ </p>
