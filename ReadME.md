@@ -65,10 +65,7 @@
 
 <h3 align="left">Useful links:</h3>
   <p>
-    <a href="" target="_blank" rel="noreferrer">
-      <img src="https://dumps.host/images/logo.png" alt="https://dumps.host" width="83" height="40">
-      Latest offsets and structures
-    </a>      
+      
   </p>
 <br>
 <br>
