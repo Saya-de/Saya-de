@@ -64,9 +64,6 @@
 </p>
 
 <h3 align="left">Useful links:</h3>
-  <p>
-      
-  </p>
 <br>
 <br>
 <br>
