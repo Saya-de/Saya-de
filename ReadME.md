@@ -43,6 +43,9 @@
    <a href="https://hex-rays.com/ida-pro/" target="_blank" rel="noreferrer">
     <img src="https://i.imgur.com/A9f0NCz.png" alt="ida pro" width="35" height="40">
   </a>
+   <a href="https://x64dbg.com" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/7937360?s=280&v=4" alt="x64dbg" width="35" height="40">
+  </a>
   <a href="https://github.com/ReClassNET/ReClass.NET" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/36203059?s=280&amp;v=4" alt="reclassNET" width="40" height="40">
   </a>
