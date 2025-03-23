@@ -24,7 +24,7 @@
 </div>
 <br>
 <br>
-All my important Repositorys are now private!
+<p align="center">All my important Repositorys are now private!</p>
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
